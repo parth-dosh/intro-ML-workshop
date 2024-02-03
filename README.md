@@ -1,4 +1,4 @@
-# intro-ML-workshop
+# Introduction to Machine Learning workshop
 
 This repository contains course material from the Introduction to Machine Learning workshop I gave to new members of the Data Science Union, an academic club I am a part of. The file descriptions for this repo are as follows: 
 
